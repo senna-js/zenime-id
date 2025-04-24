@@ -91,13 +91,13 @@ npm start # or npm run dev (to run develepment server)
 
 Host your own instance of <a href="https://zenime.site">Zenime</a>  on vercel
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/itzzzme/zenime)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/senna-js/zenime-id)
 
 ### Render
 
 Host your own instance of <a href="https://zenime.site">Zenime</a> on Render.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/itzzzme/zenime)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/senna-js/zenime-id)
 
 ### Pull Requests
 
